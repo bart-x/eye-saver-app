@@ -1,2 +1,2 @@
 # Eyes-saver-app
-To open app use Yarn start command
+To open app use "yarn start" command
